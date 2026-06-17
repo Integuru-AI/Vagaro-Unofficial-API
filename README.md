@@ -4,10 +4,10 @@ Unofficial Python integrations for Vagaro.
 
 ## Integrations
 
-- `vagaro_get_customers.py` - `get_customers` (133,382 live events).
-- `vagaro_get_appointments.py` - `get_appointments` (18,831 live events).
-- `vagaro_get_customer_all_data.py` - `get_customer_all_data` (16,366 live events).
-- `vagaro_get_transactions.py` - `get_transactions` (3,370 live events).
+- `vagaro_get_customers.py` - `get_customers`.
+- `vagaro_get_appointments.py` - `get_appointments`.
+- `vagaro_get_customer_all_data.py` - `get_customer_all_data`.
+- `vagaro_get_transactions.py` - `get_transactions`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
