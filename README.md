@@ -4,10 +4,10 @@ Unofficial Python integrations for Vagaro.
 
 ## Integrations
 
-- `vagaro_get_customers.py` - `get_customers` (133,382 live events).
-- `vagaro_get_appointments.py` - `get_appointments` (18,831 live events).
-- `vagaro_get_customer_all_data.py` - `get_customer_all_data` (16,366 live events).
-- `vagaro_get_transactions.py` - `get_transactions` (3,370 live events).
+- `vagaro_get_customers.py` - `get_customers`.
+- `vagaro_get_appointments.py` - `get_appointments`.
+- `vagaro_get_customer_all_data.py` - `get_customer_all_data`.
+- `vagaro_get_transactions.py` - `get_transactions`.
 
 ## Usage
 
